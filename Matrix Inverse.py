@@ -57,7 +57,7 @@ def input():
   i=0
   j=0
   M=[]
-  x = open(r"C:\Users\manor\Desktop\matrix2.csv")
+  x = open(r"Assignments-P346\matrix2.csv")
   cr=csv.reader(x)
   next(cr)
   for line in cr:
