@@ -1,0 +1,4 @@
+OUTPUT : 
+The sum of 10 terms of the AP series is : 167.5
+The sum of 10 terms of the GP series is : 19.98046875
+The sum of 10 terms of the HP series is : 0.6419077767425975
