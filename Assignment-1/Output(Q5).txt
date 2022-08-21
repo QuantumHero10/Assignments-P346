@@ -1,5 +1,0 @@
-OUTPUT : 
-The sum of 3-2i and 1+2i is 4
-The product of 3-2i and 1+2i is 7+4i
-The modulus of 3-2i is 3.605551275463989
-The modulus of 1+2i is 2.23606797749979
