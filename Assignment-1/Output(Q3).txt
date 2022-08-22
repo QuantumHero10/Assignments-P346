@@ -1,0 +1,2 @@
+OUTPUT : 
+The sum of first 10 terms of the seires is 0.333

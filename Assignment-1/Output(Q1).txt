@@ -1,0 +1,3 @@
+OUTPUT : 
+The sum of first 0 odd numbers is : 0
+The factorial of 0 is : 1
