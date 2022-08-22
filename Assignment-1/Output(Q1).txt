@@ -1,3 +1,0 @@
-OUTPUT : 
-The sum of first 10 odd numbers is : 100
-The factorial of 10 is : 3628800
