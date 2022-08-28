@@ -7,7 +7,7 @@ def main(x,n):
     xlist=[]
     y=[]
     for i in range (n):
+        x=((a*x)+c)%(m)
         xlist.append(x/m)
         y.append(i+1)
-        x=((a*x)+c)%(m)
     return xlist
