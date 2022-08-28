@@ -6,9 +6,9 @@ def LCG(c,a,n):
   xlist=[]
   ylist=[]
   for i in range (n):
+    x=((a*x)+c)%(m)
     xlist.append(x/m)
     ylist.append(i+1)
-    x=((a*x)+c)%(m)
   plt.plot(ylist,xlist,'.',color='purple')
   plt.show()
 x1=LCG(12345,1103515245,1000)
