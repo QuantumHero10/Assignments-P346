@@ -16,13 +16,13 @@ def vol_octant():
 
 #Function to write output to a file
 def output(s):
-    with open("Output(Q2).txt",'a') as file:
+    with open("Assignment-2\\Output(Q2).txt",'a') as file:
         file.write(s)
         file.close()
     return
 
 #Function to create a output file
-with open("Output(Q2).txt",'w') as file:
+with open("Assignment-2\\Output(Q2).txt",'w') as file:
     file.write("OUTPUT : \n")
     file.close()
 
