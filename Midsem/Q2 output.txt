@@ -1,0 +1,1 @@
+Value of Wein's constant =  0.0028990103305774253 m K

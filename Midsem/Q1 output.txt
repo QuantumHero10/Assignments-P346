@@ -1,0 +1,4 @@
+No. of random points =  226
+Area of the ellipse =  6.300884955752212
+Actual value =  6.283185307179586
+5% error =  0.3141592653589793
