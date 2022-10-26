@@ -1,6 +1,0 @@
-The roots of the given polynomial equation are:
-
-Root 1 = 2.00000005646918
-Root 2 = 0.9999998870616318
-Root 3 = -0.9999998084117324
-Root 4 = -2.000000135119079
