@@ -1,3 +1,0 @@
-Estimated value of integral using monte carlo integration = 0.5455575249975687
-
-Actual value of integral = 0.5453512865871591
