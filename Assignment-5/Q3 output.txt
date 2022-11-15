@@ -1,0 +1,3 @@
+Estimated centre of mass from the end given in question = 1.4972083515806198 m
+
+Actual value of centre of mass = 1.5 m
