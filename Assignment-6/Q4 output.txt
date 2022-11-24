@@ -1,0 +1,8 @@
+No. of iterations :- 3
+Dominant eigenvalue = 4.0
+The corresponding Eigenvector :-
+
+
+      0.7071067811865475
+E1 =        0.0
+      0.7071067811865475
