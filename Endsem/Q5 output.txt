@@ -1,0 +1,3 @@
+Without air resistance maximum height reached is : 5m
+The time taken to reach maximum point is : 1s
+The maximum height reched including air resistance = 4.933830677739786 m

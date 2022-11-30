@@ -1,0 +1,3 @@
+Initial guess for newton raphson= 1.0
+No. of Iterations: 3
+The spring can be strectched upto : 0.9585863567297973 m

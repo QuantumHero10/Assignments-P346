@@ -1,0 +1,5 @@
+No. of iterations: 7
+Dominant eigenvalue :  7.999979972896654
+Corresponding normalized eigenvector :
+ [[-0.1980291   0.69310334  0.69310334]]
+It is column matrix just printed in row form
